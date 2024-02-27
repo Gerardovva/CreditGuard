@@ -1,7 +1,7 @@
 # CreditGuard
 
 ## Descripción del Proyecto
-CreditGuard es un proyecto de ciencia de datos diseñado para ayudar a una institución financiera alemana a reducir el riesgo crediticio mediante la construcción de un modelo de machine learning preciso y confiable. Este modelo está destinado a evaluar con mayor precisión la probabilidad de incumplimiento crediticio de los clientes.
+proyecto de ciencia de datos diseñado para ayudar a una institución financiera alemana a reducir el riesgo crediticio mediante la construcción de un modelo de machine learning preciso y confiable. Este modelo está destinado a evaluar con mayor precisión la probabilidad de incumplimiento crediticio de los clientes.
 
 ## Tareas Principales
 1. **Preprocesamiento de Datos**: Realizar limpieza de datos, manejar valores faltantes, codificación de variables categóricas y normalización/escalado de datos.
